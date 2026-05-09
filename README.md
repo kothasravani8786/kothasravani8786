@@ -23,13 +23,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python • Java • SQL • R • C++ • JavaScript
+Python • Java • SQL • R • C++ • JavaScript C
 
 ### ⚙️ Tools & Technologies
-AWS • Flask • Git • Docker • MySQL • Power BI • Tableau
+AWS • Flask • REST APIs • Git • Linux • MySQL • Power BI • Tableau
 
 ### 🤖 Machine Learning & Analytics
-Scikit-learn • Pandas • NumPy • TensorFlow • Data Visualization • Statistical Analysis
+Scikit-learn • Pandas • NumPy • TensorFlow • Statistical Analysis
 
 ---
 
