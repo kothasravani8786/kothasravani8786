@@ -8,11 +8,6 @@
 
 ## 🚀 Projects
 
-### 🔹 Smart AI Budget Assistant
-- AI-powered expense tracker using Streamlit
-- Isolation Forest anomaly detection
-- Budget insights & forecasting
-
 ### 🔹 MRI Denoising using Deep Learning
 - U-Net based image denoising
 - TensorFlow / Keras implementation
@@ -66,11 +61,7 @@ Scikit-learn | Pandas | NumPy | TensorFlow
 - Generalized Linear Models in R
 - Credit Risk Modeling in R
 
-### 🌐 Specialized Analytics
-- Analyzing Social Media Data in R
-![R](https://img.shields.io/badge/R-Statistics-blue?style=for-the-badge&logo=r)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-DataCamp-orange?style=for-the-badge)
----
+--
 
 ## 📫 Connect With Me
 
