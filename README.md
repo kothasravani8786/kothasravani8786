@@ -50,9 +50,7 @@ Scikit-learn | Pandas | NumPy | TensorFlow
 
 [LinkedIn](www.linkedin.com/in/sravani-kotha-)
 
-[Portfolio](https://YOUR-PORTFOLIO)
-
-[Email](mailto:YOURMAIL@gmail.com)
+[Email](skotha1818@gmail.com)
 
 ---
 
