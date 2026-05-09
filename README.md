@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python • Java • SQL • R • C++ • JavaScript C
+Python • Java • SQL • R • C++ • JavaScript • C
 
 ### ⚙️ Tools & Technologies
 AWS • Flask • REST APIs • Git • Linux • MySQL • Power BI • Tableau
