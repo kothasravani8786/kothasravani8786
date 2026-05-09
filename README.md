@@ -42,8 +42,34 @@ Scikit-learn | Pandas | NumPy | TensorFlow
 
 - Deloitte Data Analytics Virtual Experience
 - Google Data Analytics
-- Introduction to Cyber Security
+- Introduction to Cyber Securit
+  
+### 🎓 DataCamp Tracks
+- ✅ Data Analyst Track
+- ✅ Associate Data Scientist Track
 
+### 📊 Data Analysis & Statistics
+- Exploratory Data Analysis in R
+- Cleaning Data in R
+- Data Manipulation with R
+- Introduction to Statistics in R
+- Hypothesis Testing in R
+- Practicing Statistics Interview Questions in R
+- Fundamentals of Bayesian Data Analysis in R
+
+### 🤖 Machine Learning
+- Supervised Learning in R: Classification
+- Unsupervised Learning in R
+- Cluster Analysis in R
+- Dimensionality Reduction in R
+- Machine Learning with Tree-Based Models in R
+- Generalized Linear Models in R
+- Credit Risk Modeling in R
+
+### 🌐 Specialized Analytics
+- Analyzing Social Media Data in R
+![R](https://img.shields.io/badge/R-Statistics-blue?style=for-the-badge&logo=r)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-DataCamp-orange?style=for-the-badge)
 ---
 
 ## 📫 Connect With Me
@@ -51,11 +77,3 @@ Scikit-learn | Pandas | NumPy | TensorFlow
 [LinkedIn](www.linkedin.com/in/sravani-kotha-)
 
 [Email](skotha1818@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Sravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
