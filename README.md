@@ -1,45 +1,46 @@
 # Hi, I'm Sravani 👋
 
 🎓 Master's Student in Computer Science at University of Houston  
-💻 Aspiring Software Engineer | Data Analyst | ML Enthusiast  
+💻 Aspiring Software Engineer | Data Analyst | Machine Learning Enthusiast  
 📍 Houston, Texas  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔹 MRI Denoising using Deep Learning
-- U-Net based image denoising
-- TensorFlow / Keras implementation
-- Medical imaging enhancement
+- U-Net based image denoising using TensorFlow & Keras
+- Improved medical image quality for MRI scan enhancement
+- Built deep learning pipeline for image reconstruction
 
 ### 🔹 Online Retail Customer Analysis
-- RFM Segmentation
-- Customer inactivity prediction
-- Data visualization using R & Power BI
+- Performed RFM-based customer segmentation
+- Built customer inactivity prediction models
+- Created visual dashboards using R & Power BI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python | Java | SQL | R | C++ | JavaScript
+### 💻 Languages
+Python • Java • SQL • R • C++ • JavaScript
 
-### Tools & Technologies
-AWS | Flask | Git | Docker | MySQL | Power BI | Tableau
+### ⚙️ Tools & Technologies
+AWS • Flask • Git • Docker • MySQL • Power BI • Tableau
 
-### Machine Learning
-Scikit-learn | Pandas | NumPy | TensorFlow
+### 🤖 Machine Learning & Analytics
+Scikit-learn • Pandas • NumPy • TensorFlow • Data Visualization • Statistical Analysis
 
 ---
 
 ## 📜 Certifications
 
+### 🎓 Professional Certifications
 - Deloitte Data Analytics Virtual Experience
 - Google Data Analytics
-- Introduction to Cyber Securit
-  
-### 🎓 DataCamp Tracks
+- Introduction to Cyber Security
+
+### 📘 DataCamp Tracks
 - ✅ Data Analyst Track
 - ✅ Associate Data Scientist Track
 
@@ -61,10 +62,9 @@ Scikit-learn | Pandas | NumPy | TensorFlow
 - Generalized Linear Models in R
 - Credit Risk Modeling in R
 
---
+---
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/sravani-kotha-)
-
-[Email](skotha1818@gmail.com)
+- LinkedIn: [Sravani Kotha](https://www.linkedin.com/in/sravani-kotha-/)
+- Email: skotha1818@gmail.com
