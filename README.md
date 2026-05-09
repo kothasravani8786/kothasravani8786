@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Sravani 👋
 
-<!--
-**kothasravani8786/kothasravani8786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Computer Science at University of Houston  
+💻 Aspiring Software Engineer | Data Analyst | ML Enthusiast  
+📍 Houston, Texas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Smart AI Budget Assistant
+- AI-powered expense tracker using Streamlit
+- Isolation Forest anomaly detection
+- Budget insights & forecasting
+
+### 🔹 MRI Denoising using Deep Learning
+- U-Net based image denoising
+- TensorFlow / Keras implementation
+- Medical imaging enhancement
+
+### 🔹 Online Retail Customer Analysis
+- RFM Segmentation
+- Customer inactivity prediction
+- Data visualization using R & Power BI
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python | Java | SQL | R | C++ | JavaScript
+
+### Tools & Technologies
+AWS | Flask | Git | Docker | MySQL | Power BI | Tableau
+
+### Machine Learning
+Scikit-learn | Pandas | NumPy | TensorFlow
+
+---
+
+## 📜 Certifications
+
+- Deloitte Data Analytics Virtual Experience
+- Google Data Analytics
+- Introduction to Cyber Security
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/sravani-kotha-)
+
+[Portfolio](https://YOUR-PORTFOLIO)
+
+[Email](mailto:YOURMAIL@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Sravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
